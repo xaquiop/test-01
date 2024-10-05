@@ -1,5 +1,5 @@
 def most_frequent(list):
     return max(set(list), key = list.count)  
 
-numbers = [1,2,1,2,3,2,1,4,2]
+numbers = [1488,666]
 most_frequent(numbers)
